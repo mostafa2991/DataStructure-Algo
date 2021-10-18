@@ -1,4 +1,4 @@
-# Staring my journey @ 10/18/2021 in [LeetCode Problems](https://leetcode.com/problemset/all/) [![Travis](https://img.shields.io/badge/language-Java-green.svg)]()
+# Staring my journey @ 10/18/2021 in [![Travis](https://img.shields.io/badge/language-Java-green.svg)]()
 
 
 
