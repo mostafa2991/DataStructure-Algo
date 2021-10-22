@@ -1,4 +1,4 @@
-package leetCode.easy.recursion;
+package recursion;
 
 public class Recursion {
 //  logicBehindRecursive
